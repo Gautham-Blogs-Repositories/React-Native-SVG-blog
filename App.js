@@ -1,6 +1,6 @@
 import {View} from 'react-native';
 import React from 'react';
-import Logo from '../logo.svg';
+import Logo from './logo.svg';
 
 const App = () => {
   return (
